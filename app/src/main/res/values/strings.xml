@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeBottomNav</string>
+    <string name="screen_title_home">Home</string>
+    <string name="screen_title_settings">Settings</string>
+    <string name="screen_title_about">About Us</string>
+    <string name="to_about_screen_button_text">Go To About Screen</string>
+</resources>
